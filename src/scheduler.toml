@@ -1,0 +1,6 @@
+[scheduler]
+enabled = true
+repository = "scanapi/scanapi"
+cron = "25 * * * *"
+timezone = "America/Sao_Paulo"
+misfire_grace_time = 3600

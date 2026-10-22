@@ -19,7 +19,9 @@ st.markdown("Monitor ecosystem contributions and project metrics.")
 st.divider()
 
 # --- Fetch Data Once ---
+print("Starting community metrics calculation...", flush=True)
 metrics = calculate_community_health("scanapi/scanapi")
+print("Community metrics calculation completed.", flush=True)
 df_issues = metrics["issues_df"]
 df_pulls = metrics["pulls_df"]
 

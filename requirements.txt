@@ -8,3 +8,7 @@ PyGithub>=2.1.1
 # Code Quality & Linters
 black>=23.0.0
 flake8>=6.0.0
+
+#Job Scheduler
+APScheduler>=3.11,<4
+tzdata

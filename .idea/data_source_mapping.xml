@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourcePerFileMappings">
+    <file url="file://$PROJECT_DIR$/sql/1_CREATE_GITHUB_ITEMS.sql" value="7837c236-98bf-414a-8548-bc76e6ef178e" />
+    <file url="file://$PROJECT_DIR$/sql/2_CREATE_GITHUB_ SYNC_STATE.sql" value="7837c236-98bf-414a-8548-bc76e6ef178e" />
+    <file url="file://$APPLICATION_CONFIG_DIR$/consoles/db/7837c236-98bf-414a-8548-bc76e6ef178e/console.sql" value="7837c236-98bf-414a-8548-bc76e6ef178e" />
+  </component>
+</project>
